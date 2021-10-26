@@ -1,0 +1,1 @@
+console.log('ALERTA!!! ESSA SENHA ESTÁ INCORRETA!!!');
