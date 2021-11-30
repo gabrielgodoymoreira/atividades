@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#container{
+    border: solid 1px;
+    width: 996px;
+    height: 616px;
+}
+
+#banner{
+    border: solid 1px;
+    width: 996px;
+    height: 100px;
+}
+
+#link{
+    border: solid 1px;
+    width: 90px;
+    height: 514px;
+}
+
+#texto{
+    border: solid 1px;
+    width: 200px;
+    height: 513px;
+    margin-left: 91px;
+}

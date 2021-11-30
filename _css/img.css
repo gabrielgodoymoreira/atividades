@@ -1,0 +1,14 @@
+img {
+    position: absolute; 
+    left: 30px;
+    top: 60px;
+}
+.logo{
+    position: relative;
+    left: 600px;
+}
+p{
+    font-size: 30px;
+    margin-left: 700px;
+}
+
